@@ -19,8 +19,7 @@ Bienvenido al repositorio de la charla de iniciación a **Python**. Aquí encont
 1. Descargar el instalador oficial desde [python.org](https://www.python.org/downloads/windows/).  
 2. Ejecutar el instalador y **marcar la opción "Add Python to PATH"**.  
 3. Verificar la instalación abriendo **PowerShell** o **CMD**:
-   ```bash
-   python --version
+   `python --version`
 
 Instalar un editor recomendado: Visual Studio Code
 
