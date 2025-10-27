@@ -12,7 +12,7 @@ Bienvenido al repositorio de la charla de iniciación a **Python**. Aquí encont
 
 ---
 
-## Instalación de Python
+Instalación de Python
 
 ### Windows
 
@@ -25,7 +25,7 @@ Instalar un editor recomendado: Visual Studio Code
 
 ---
 
-###Linux/Ubuntu:
+### Linux/Ubuntu:
 Instalación de python3 y su posterior comprobación:
   `sudo apt install python3 python3-pip -y`
   `python3 --version`
