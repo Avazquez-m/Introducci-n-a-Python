@@ -49,3 +49,40 @@ Aquí encontrarás enlaces y herramientas útiles para aprender y practicar Pyth
 - [LearnPython.org](https://www.learnpython.org/) – Tutorial interactivo gratuito.
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/) – Introducción rápida con ejemplos.
 - [Real Python](https://realpython.com/) – Artículos y tutoriales avanzados (muchos gratuitos).
+
+---
+
+## Ejercicios de práctica: Input y condicionales
+
+A continuación encontrarás los enunciados de ejercicios para practicar el uso de `input()` y condicionales `if` en Python.  
+
+### Ejercicio 1: Saludo personalizado
+Pide al usuario que introduzca su nombre y muestra un saludo personalizado en pantalla.
+
+### Ejercicio 2: Comprobar mayor de edad
+Solicita la edad del usuario y muestra un mensaje indicando si puede votar (mayor o menor de 18 años).
+
+### Ejercicio 3: Número positivo, negativo o cero
+Pide un número al usuario y muestra si es positivo, negativo o cero.
+
+### Ejercicio 4: Comprobar contraseña
+Crea una contraseña predefinida. Pide al usuario que introduzca la contraseña y muestra un mensaje indicando si el acceso es concedido o denegado.
+
+### Ejercicio 5: Número par o impar
+Pide al usuario un número entero y muestra si el número es **par** o **impar**.
+
+### Ejercicio 6: Comparar dos números
+Pide al usuario dos números y muestra cuál de ellos es mayor o si son iguales.
+
+### Ejercicio 7: Clasificar edad en rangos
+Pide la edad del usuario y clasifícala en:
+- Niño: 0-12 años
+- Adolescente: 13-17 años
+- Adulto: 18-64 años
+- Adulto mayor: 65 años o más
+
+### Ejercicio 8: Precio con descuento
+Pide al usuario el precio de un producto y un porcentaje de descuento. Calcula el precio final aplicando el descuento y muestra el resultado.
+
+**Nota:**  
+Todos estos ejercicios están pensados para **practicar la entrada de datos (`input`) y el uso de condicionales (`if`, `elif`, `else`)**. Puedes añadir más ejercicios o variaciones a medida que avances en la iniciación.
