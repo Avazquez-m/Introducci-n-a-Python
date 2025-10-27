@@ -29,3 +29,23 @@ Instalar un editor recomendado: Visual Studio Code
 Instalación de python3 y su posterior comprobación:
   `sudo apt install python3 python3-pip -y`
   `python3 --version`
+
+  ---
+
+## Recursos para Python
+
+Aquí encontrarás enlaces y herramientas útiles para aprender y practicar Python durante la iniciación:
+
+### Documentación oficial
+- [Python 3 Documentation](https://docs.python.org/3/) – Documentación oficial de Python.
+- [Python Package Index (PyPI)](https://pypi.org/) – Repositorio oficial de paquetes y librerías Python.
+- [PEP 8](https://www.python.org/dev/peps/pep-0008/) – Guía de estilo oficial de Python.
+
+### Editores y entornos de desarrollo
+- [Visual Studio Code](https://code.visualstudio.com/) – Editor recomendado para Python.
+- [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/) – IDE completo para Python.
+
+### Tutoriales y guías para principiantes
+- [LearnPython.org](https://www.learnpython.org/) – Tutorial interactivo gratuito.
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/) – Introducción rápida con ejemplos.
+- [Real Python](https://realpython.com/) – Artículos y tutoriales avanzados (muchos gratuitos).
