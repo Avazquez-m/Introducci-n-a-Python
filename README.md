@@ -6,7 +6,7 @@ Bienvenido al repositorio de la charla de iniciación a **Python**. Aquí encont
 
 ## Contenido del repositorio
 
-- **Diapositiva**.
+- **Diapositiva**:   https://www.canva.com/design/DAG11RyIadU/arLpyaARXibZquGC_czsHw/edit?utm_content=DAG11RyIadU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - **Ejercicios de práctica**: Carpeta `ejercicios/` con ejemplos y retos.  
 - **Recursos adicionales**: Guías, enlaces y documentación oficial de Python.
 
